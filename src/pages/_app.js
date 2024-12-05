@@ -22,7 +22,7 @@ export default function App({ Component, pageProps }) {
       </style>
       <ChakraProvider theme={theme}>
         <Header />
-        <Flex as="main" flexGrow="1">
+        <Flex as="main" flexGrow="1" bgColor="#F6F7F9">
           <Component {...pageProps} />
         </Flex>
         <Footer />

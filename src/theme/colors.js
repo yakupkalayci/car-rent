@@ -33,6 +33,17 @@ const colors = {
     dark800: "#930B16",
     dark900: "#7A0619",
   },
+  information: {
+    light100: "#DCF3FF",
+    light200: "#BAE5FF",
+    light300: "#98D3FF",
+    light400: "#7EC2FF",
+    default: "#54A6FF",
+    dark600: "#3D81DB",
+    dark700: "#2A60B7",
+    dark800: "#1A4393",
+    dark900: "#102E7A",
+  }
 };
 
 export default colors;
